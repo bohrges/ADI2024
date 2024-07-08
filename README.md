@@ -11,9 +11,9 @@ Para este dataset, o objetivo foi determinar a percentagem de vitórias de uma e
 No repositório encontram-se os ficheiros relativos ao trabalho desenvolvido, nomeadamente o relatório final, os workflows e os datasets utilizados.
 
 ## Autores
-Luís Borges
-João Ferreira
-Flávio Silva
+Luís Borges\
+João Ferreira\
+Flávio Silva\
 José Vasconcelos
 
 ## Classificação
